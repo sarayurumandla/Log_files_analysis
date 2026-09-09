@@ -1,7 +1,4 @@
 # Log file analysis
-A simple Python program developed during my 2024 work experience at CellXion Networking Company to automate the analysis of network log files.
-
-## Overview
 
 The program reads a network log file, uses regular expressions (regex) to identify error codes, and counts how frequently each unique error pattern occurs. Results are then sorted from most to least frequent.
 
@@ -42,8 +39,8 @@ The program outputs:
 
 ERR404 3
 ERR500 2
-What I Learned
 
+## What I Learned
 This project gave me practical experience with:
 
 Python programming
@@ -52,6 +49,7 @@ Regular expressions
 Automating repetitive data analysis
 Working with network-related data
 Problem-solving in a software development environment
-Context
+
+## Context
 
 This project was completed as part of my 2024 work experience at CellXion Networking Company, where I gained exposure to GSM network architecture and software analysis.
